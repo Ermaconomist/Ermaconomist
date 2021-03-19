@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ermaconomist, a banker & budding data scientist
 - 👀 I’m interested in Deep Learning, Computer Vision, Spatial Data and all the other data science stuff :)
-- 🌱 I’m currently learning Machine Learning and Deep Learning in preparation for the Tensorflow Certification
+- 🌱 I’m currently learning Machine Learning / Deep Learning workflows in preparation for the Tensorflow Certification
 - 💞️ Open for a new challenge
 - 📫 Reach out to me via LinkedIn, Mail or direct message
 
